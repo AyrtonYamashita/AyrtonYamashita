@@ -2,7 +2,6 @@
 <div>
     <a href="https://github.com/AyrtonYamashita"/>
     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=AyrtonYamashita&show_icons=true&theme=transparent"/>
-    <img width="44.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyrtonYamashita&repo=caesar-cipher&theme=transparent"/>
  </div>
  
 ## 
