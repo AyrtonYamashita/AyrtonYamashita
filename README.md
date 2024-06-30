@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Ayrton Yamashita
 <div>
-    <a href="https://github.com/AyrtonYamashita"/>
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=AyrtonYamashita&show_icons=true&theme=transparent"/>
+    <a href="https://app.rocketseat.com.br/me/ayrton-yamashita"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=ayrton-yamashita&type=card" width="280" alt="Ayrton Yamashita's Rocket ID"/></a>
  </div>
  
 ## 
