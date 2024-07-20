@@ -1,14 +1,2 @@
-### Olá! Eu sou o Ayrton Yamashita
-<div>
-    <a href="https://app.rocketseat.com.br/me/ayrton-yamashita"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=ayrton-yamashita&type=card" width="280" alt="Ayrton Yamashita's Rocket ID"/></a>
- </div>
- 
-## 
- 
- <div>
- 
-    <img align="center" alt="Ayrton-Py" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img align="center" alt="Ayrton-Py" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- </div>
- 
-
+### <p align="center">Olá! Eu sou o Ayrton Yamashita, ainda em construção por aqui...</p>
+<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhsYzQyZmd6eGZ1b2wxNG5tZGcxcXB2c3FldTZnOXBsNWh0ZnB2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/oI2bjXsF9wK8nfWUoY/giphy.webp"></p>
